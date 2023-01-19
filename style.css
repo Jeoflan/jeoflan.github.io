@@ -1,0 +1,46 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    background-color: #A1FF0A;
+}
+#nação {
+    text-decoration: underline;
+    line-height: 30px;              
+}
+.descricao{
+    position: absolute;
+    top: 80px;
+    left: 200px;
+    
+}
+.esforço {
+    font-size: 30px;
+}
+.help {
+    font-size: 25px;
+}
+.peaple {
+    font-size: 20px;
+}
+
+#minha-foto {
+    float: left;
+    padding: 10px;
+    background-color: #31572c;
+}
+.imagem-no-bloco {
+    height: 244px;
+    position: relative;
+}
+
+div {
+    border: 5px solid black;
+}
+ul li:nth-child(odd) {
+    background-color: #25a244;
+}
